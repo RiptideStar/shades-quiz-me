@@ -1,0 +1,92 @@
+{
+    "questions": [
+      {
+        "imageUrl": "https://th.bing.com/th/id/OIP.p55IB5L-wEKJNETbEocgKwAAAA?pid=ImgDet&rs=1",
+        "title": "What is the name of the largest bone in the human body?",
+        "answers": ["Femur", "Humerus", "Tibia", "Mandible"],
+        "correctAnswer": "Femur",
+        "time": 20
+      },
+      {
+        "imageUrl": "https://www.fotoreise-schottland.com/wp-content/uploads/2017/02/Assynt-Fotoreise-16_0567-var-s-400px-wide.jpg",
+        "title": "Which country is the only one to border both the Atlantic Ocean and the Indian Ocean?",
+        "answers": ["Brazil", "India", "South Africa", "Australia"],
+        "correctAnswer": "South Africa",
+        "time": 15
+      },
+      {
+        "imageUrl": "https://th.bing.com/th/id/OIP.MzXk5dvbrXpDe1b8bjkfpQHaFC?pid=ImgDet&rs=1",
+        "title": "What is the currency of Japan?",
+        "answers": ["Yuan", "Won", "Yen", "Dollar"],
+        "correctAnswer": "Yen",
+        "time": 15
+      },
+      {
+        "imageUrl": "https://th.bing.com/th/id/R.4fa7aa1fcc518adb8c8ce354c66bfca8?rik=1QS8ZM2QLcWG9A&riu=http%3a%2f%2fwhirledpies.com%2fwp-content%2fuploads%2f2019%2f03%2fStringed-Instruments-693x321.jpg&ehk=cXk%2fQuRGrpD0Lt9yZRTYCSGpOPFGS3WYpccmDVcB3Z4%3d&risl=&pid=ImgRaw&r=0",
+        "title": "What musical instrument has 47 strings and seven pedals?",
+        "answers": ["Piano", "Guitar", "Harpsichord", "Harp"],
+        "correctAnswer": "Harp",
+        "time": 15
+      },
+      {
+        "imageUrl": "https://dr5dymrsxhdzh.cloudfront.net/blog/images/a955a9255/2021/03/smal-city.jpg",
+        "title": "What is the largest ocean in the world?",
+        "answers": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+        "correctAnswer": "Pacific Ocean",
+        "time": 15
+      },
+      {
+        "imageUrl": "https://dr5dymrsxhdzh.cloudfront.net/blog/images/a955a9255/2021/03/smal-city.jpg",
+        "title": "What is the smallest country in the world?",
+        "answers": ["Nauru", "Tuvalu", "Vatican City", "Monaco"],
+        "correctAnswer": "Vatican City",
+        "time": 15
+      },
+      {
+        "imageUrl": "https://lp-cms-production.imgix.net/2020-09/shutterstockRF_1288634608.jpg?auto=compress&fit=crop&fm=auto&sharp=10&vib=20&w=1200",
+        "title": "What is the longest river in the world?",
+        "answers": ["Amazon River", "Nile River", "Yangtze River", "Mississippi River"],
+        "correctAnswer": "Nile River",
+        "time": 15
+      },
+      {
+        "imageUrl": "https://www.wallpaperflare.com/static/348/271/826/solar-system-planet-sun-digital-art-wallpaper.jpg",
+        "title": "Which planet is the second smallest in the solar system?",
+        "answers": ["Earth", "Venus", "Jupiter", "Mars"],
+        "correctAnswer": "Mars",
+        "time": 15
+      },
+      {
+        "imageUrl": "https://th.bing.com/th/id/R.018d5ae871a465495882f761a25f2cee?rik=2pwNVjHeqQq8HQ&riu=http%3a%2f%2falessandria.bookrepublic.it%2fapi%2fbooks%2f9788892565555%2fcover&ehk=AWdXkfO%2f989t4tj77qfhZKxg5QdhPToafEoi6HBEtQY%3d&risl=&pid=ImgRaw&r=0",
+        "title": "Who wrote the classic novel Frankenstein?",
+        "answers": ["Bram Stoker", "H.G. Wells", "Mary Shelley", "Jules Verne"],
+        "correctAnswer": "Mary Shelley",
+        "time": 15
+      },
+      {
+        "imageUrl": "https://cdn.britannica.com/31/2231-004-FFA33CDA/Lynx-spider.jpg?w=400&h=300&c=crop",
+        "title": "What is the name of the phobia that means fear of spiders?",
+        "answers": ["Arachnophobia", "Ophidiophobia", "Cynophobia", "Astraphobia"],
+        "correctAnswer": "Arachnophobia",
+        "time": 15
+      },
+      {
+        "imageUrl": "https://th.bing.com/th/id/OIP.FIlTLCEU4TDB4c1WFmDP2QHaEK?pid=ImgDet&rs=1",
+        "title": "What is the name of the largest artery in the human body?",
+        "answers": ["Carotid", "Femoral", "Aorta", "Brachial"],
+        "correctAnswer": "Aorta",
+        "time": 15
+      },
+      {
+        "imageUrl": "https://i.pinimg.com/originals/56/b5/f3/56b5f3c99bebcb064c949282be60844e.jpg",
+        "title": "Who painted the famous artwork The Starry Night?",
+        "answers": ["Pablo Picasso", "Claude Monet", "Vincent Van Gogh", "Leonardo da Vinci"],
+        "correctAnswer": "Vincent Van Gogh",
+        "time": 15
+      }
+    ],
+    "pointsPerQuestion": 10,
+    "bonusPointsPerSecond": 5,
+    "timePerQuestion": 15
+  }
+  
